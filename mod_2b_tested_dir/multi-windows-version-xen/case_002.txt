@@ -1,0 +1,4 @@
+MEMO
+IMG_FILE=windowsserver2008r2_datacenter_x64.xen.img
+END_MEMO
+

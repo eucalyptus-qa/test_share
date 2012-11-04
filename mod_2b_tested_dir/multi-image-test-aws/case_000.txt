@@ -1,0 +1,5 @@
+MEMO
+CUSTOM_LOAD_IMAGE=aws-images/fedora16/ks-fedora16-201209050223.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=aws-images/fedora16/vmlinuz-3.4.9-2.fc16.x86_64
+CUSTOM_LOAD_IMAGE_INITRD=aws-images/fedora16/initramfs-3.4.9-2.fc16.x86_64.img
+END_MEMO

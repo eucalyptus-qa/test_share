@@ -1,0 +1,6 @@
+MEMO
+CUSTOM_LOAD_IMAGE=instance_images/euca-centos-5.8-2012.05.14-x86_64/euca-centos-5.8-2012.05.14-x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=instance_images/euca-centos-5.8-2012.05.14-x86_64/kvm-kernel/vmlinuz-2.6.28-11-generic
+CUSTOM_LOAD_IMAGE_INITRD=instance_images/euca-centos-5.8-2012.05.14-x86_64/kvm-kernel/initrd.img-2.6.28-11-generic
+END_MEMO
+

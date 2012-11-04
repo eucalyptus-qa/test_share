@@ -1,0 +1,8 @@
+MEMO
+EUCA2OOLS_TEST_SETUP=centos 5.6 32 repo
+EUCA2OOLS_REPO_FOR_TEST=http://192.168.7.65/qa-pkg-storage/qa-euca2ools-pkgbuild/latest-success/phase3/centos/5/i386/
+CUSTOM_LOAD_IMAGE_DESC=centos 5.6 32
+CUSTOM_LOAD_IMAGE=euca-centos-2011.07.02-i386/euca-centos-2011.07.02-i386.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=euca-centos-2011.07.02-i386/xen-kernel/vmlinuz-2.6.24-19-xen
+CUSTOM_LOAD_IMAGE_INITRD=euca-centos-2011.07.02-i386/xen-kernel/initrd.img-2.6.24-19-xen
+END_MEMO

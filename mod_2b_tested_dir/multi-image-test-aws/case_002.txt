@@ -1,0 +1,5 @@
+MEMO
+CUSTOM_LOAD_IMAGE=aws-images/centos6/ks-centos6-201209051029.img
+CUSTOM_LOAD_IMAGE_INITRD=aws-images/centos6/initramfs-2.6.32-279.5.2.el6.x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=aws-images/centos6/vmlinuz-2.6.32-279.5.2.el6.x86_64
+END_MEMO

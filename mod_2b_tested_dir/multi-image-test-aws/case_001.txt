@@ -1,0 +1,5 @@
+MEMO
+CUSTOM_LOAD_IMAGE=aws-images/fedora17/ks-fedora17-201209050306.img
+CUSTOM_LOAD_IMAGE_INITRD=aws-images/fedora17/initramfs-3.5.3-1.fc17.x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=aws-images/fedora17/vmlinuz-3.5.3-1.fc17.x86_64
+END_MEMO

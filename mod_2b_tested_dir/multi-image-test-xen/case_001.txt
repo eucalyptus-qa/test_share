@@ -1,0 +1,6 @@
+MEMO
+CUSTOM_LOAD_IMAGE=instance_images/euca-debian-2012.05.18-x86_64/euca-debian-2012.05.18-x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=instance_images/euca-debian-2012.05.18-x86_64/xen-kernel/vmlinuz-2.6.27.21-0.1-xen
+CUSTOM_LOAD_IMAGE_INITRD=instance_images/euca-debian-2012.05.18-x86_64/xen-kernel/initrd-2.6.27.21-0.1-xen
+END_MEMO
+

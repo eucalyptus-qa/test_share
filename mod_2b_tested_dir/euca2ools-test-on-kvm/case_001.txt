@@ -1,0 +1,10 @@
+MEMO
+EUCA2OOLS_TEST_SETUP=centos 5.6 64 bzr
+EUCA2OOLS_REPO_FOR_TEST=http://192.168.7.65/qa-pkg-storage/qa-euca2ools-pkgbuild/latest-success/phase3/centos/5/x86_64/
+CUSTOM_LOAD_IMAGE_DESC=centos 5.6 64
+CUSTOM_LOAD_IMAGE=euca-centos-2011.07.02-x86_64/euca-centos-2011.07.02-x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=euca-centos-2011.07.02-x86_64/kvm-kernel/vmlinuz-2.6.28-11-generic
+CUSTOM_LOAD_IMAGE_INITRD=euca-centos-2011.07.02-x86_64/kvm-kernel/initrd.img-2.6.28-11-generic
+END_MEMO
+
+

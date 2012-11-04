@@ -1,0 +1,21 @@
+   <AccessControlPolicy>
+      <Owner>
+         <ID>r3YpsS990BFJ39KRlzoHCA</ID>
+         <DisplayName>testuser</DisplayName>
+      </Owner>
+      <AccessControlList>
+         <Grant>
+            <Grantee>
+               <ID>r3YpsS990BFJ39KRlzoHCA</ID>
+               <DisplayName>testuser</DisplayName>
+            </Grantee>
+            <Permission>FULL_CONTROL</Permission>
+         </Grant>
+         <Grant>
+            <Grantee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Group">
+               <URI>http://acs.amazonaws.com/groups/global/AllUsers</URI>
+            </Grantee>
+            <Permission>WRITE</Permission>
+         </Grant>
+      </AccessControlList>
+   </AccessControlPolicy>

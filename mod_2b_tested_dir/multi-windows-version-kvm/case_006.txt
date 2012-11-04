@@ -1,0 +1,4 @@
+MEMO
+IMG_FILE=windows7_pro_x64.kvm.img
+END_MEMO
+

@@ -1,0 +1,7 @@
+MEMO
+CUSTOM_LOAD_IMAGE=instance_images/euca-ubuntu-10.04-2012-05-16-x86_64/euca-ubuntu-10.04-2012-05-16-x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=instance_images/euca-ubuntu-10.04-2012-05-16-x86_64/vmlinuz-2.6.32-5-amd64
+CUSTOM_LOAD_IMAGE_INITRD=instance_images/euca-ubuntu-10.04-2012-05-16-x86_64/initrd.img-2.6.32-5-amd64
+END_MEMO
+
+

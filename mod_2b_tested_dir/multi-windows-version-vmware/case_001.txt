@@ -1,0 +1,4 @@
+MEMO
+IMG_FILE=windowsserver2003r2_ent_x64.vmware.img
+END_MEMO
+

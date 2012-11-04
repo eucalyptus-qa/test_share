@@ -1,0 +1,6 @@
+<BucketLoggingStatus xmlns="http://s3.amazonaws.com/doc/2006-03-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LoggingEnabled>
+    <TargetBucket>testloggingbucket</TargetBucket>
+    <TargetPrefix>test-prefix-</TargetPrefix>
+  </LoggingEnabled>
+</BucketLoggingStatus>

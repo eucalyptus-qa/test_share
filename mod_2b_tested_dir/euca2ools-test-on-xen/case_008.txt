@@ -1,0 +1,10 @@
+MEMO
+EUCA2OOLS_TEST_SETUP=ubuntu lucid 32 repo
+EUCA2OOLS_REPO_FOR_TEST=http://192.168.7.65/qa-pkg-storage/qa-euca2ools-pkgbuild/latest-success/phase3/ubuntu/lucid/
+CUSTOM_LOAD_IMAGE_DESC=ubuntu lucid 32
+CUSTOM_LOAD_IMAGE=euca-ubuntu-2011.07.02-i386/euca-ubuntu-2011.07.02-i386.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=euca-ubuntu-2011.07.02-i386/xen-kernel/vmlinuz-2.6.24-19-xen
+CUSTOM_LOAD_IMAGE_INITRD=euca-ubuntu-2011.07.02-i386/xen-kernel/initrd.img-2.6.24-19-xen
+END_MEMO
+
+

@@ -1,0 +1,27 @@
+   <AccessControlPolicy>
+    <Owner>
+        <ID>WKy3rMzOWPouVOxK1p3Ar1C2uRBwa2FBXnCw</ID>
+        <DisplayName>admin</DisplayName>
+    </Owner>
+    <AccessControlList>
+        <Grant>
+            <Grantee>
+                <ID>WKy3rMzOWPouVOxK1p3Ar1C2uRBwa2FBXnCw</ID>
+                <DisplayName>admin</DisplayName>
+            </Grantee>
+            <Permission>FULL_CONTROL</Permission>
+        </Grant>
+        <Grant>
+            <Grantee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Group">
+                <URI>http://acs.amazonaws.com/groups/s3/LogDelivery</URI>
+            </Grantee>
+            <Permission>WRITE</Permission>
+        </Grant>
+        <Grant>
+            <Grantee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Group">
+                <URI>http://acs.amazonaws.com/groups/s3/LogDelivery</URI>
+            </Grantee>
+            <Permission>READ_ACP</Permission>
+        </Grant>
+    </AccessControlList>
+</AccessControlPolicy>

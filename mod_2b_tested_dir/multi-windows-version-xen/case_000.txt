@@ -1,0 +1,3 @@
+MEMO
+IMG_FILE=windowsserver2003r2_ent_x86.xen.img
+END_MEMO

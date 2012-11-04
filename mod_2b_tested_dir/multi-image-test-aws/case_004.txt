@@ -1,0 +1,5 @@
+MEMO
+CUSTOM_LOAD_IMAGE=aws-images/ubuntu1204/euca-ubuntu-12.04-2012-05-17-x86_64.img
+CUSTOM_LOAD_IMAGE_VMLINUZ=aws-images/ubuntu1204/vmlinuz-2.6.32-5-amd64
+CUSTOM_LOAD_IMAGE_INITRD=aws-images/ubuntu1204/initrd.img-2.6.32-5-amd64
+END_MEMO

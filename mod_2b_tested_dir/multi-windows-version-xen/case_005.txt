@@ -1,0 +1,4 @@
+MEMO
+IMG_FILE=windows7_pro_x86.xen.img
+END_MEMO
+
